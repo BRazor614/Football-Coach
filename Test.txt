@@ -105,5 +105,7 @@ TEAM,AAC,East,Connecticut,CONN,55,TLSA,,,,,,,
 # Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,,,,,
 # PLAYER,ECU,WR,Saleem Blackwell,So,72,200,3,,,,,,
 # OR:,Team,Position,Name,Year (String),Height,Weight,Potential,Football IQ,Durability,Attribute1,Attribute2,Attribute3,Attribute4
-PLAYER,ECU,QB,Juwon Hood,Jr,72,200,75,90,100,75,85,95,95
-# OR:,ECU,Position,Name,Year (String),Height,Weight,Potential,,,,,,
+PLAYER,ECU,QB,Juwon Hood,So,72,180,100,90,100,75,95,95,95
+PLAYER,ECU,WR,Santos Black,So,72,160,100,90,100,95,95,95,95
+PLAYER,ECU,OL,Walker Moses,So,85,300,75,90,100,75,85,95,95
+# OR:,Team,Position,Name,Year (String),Height,Weight,Potential,,,,,,
