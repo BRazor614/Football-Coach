@@ -1,4 +1,4 @@
-﻿Achi's Mostly Real Life Universe,,,,,,,,,,,,,
+﻿Brians Universe,,,,,,,,,,,,,
 SEC,East,West,,,,,,,,,,,
 ACC,Atlantic,Coastal,,,,,,,,,,,
 Big Ten,East,West,,,,,,,,,,,
@@ -111,4 +111,6 @@ PLAYER,ECU,OL,Walker Moses,So,82,300,90,90,100,75,85,95,95
 PLAYER,ECU,TE,Gage Copeland,So,80,230,95,90,100,75,85,95,95
 PLAYER,ECU,OL,Dexter Thomas,So,81,290,100,90,100,75,85,95,95
 PLAYER,ECU,RB,Jaleel Fortune,So,73,210,100,90,100,75,85,95,95
+PLAYER,ECU,,CB,Kalon Barnes,Fr,69,200,100,90,100,75,85,95,95
+PLAYER,ECU,LB,Rashaad Boddie,So,68,220,100,90,100,75,85,95,95
 # OR:,Team,Position,Name,Year (String),Height,Weight,Potential,,,,,,
